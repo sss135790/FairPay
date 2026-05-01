@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+python-dotenv
+pydantic
+pytest
+httpx==0.26.0
